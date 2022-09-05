@@ -9,7 +9,7 @@ class DoublyCircularLinkedList:
         self.head = None
         self.count = 0
 
-    def add_at_tail(self, data) -> bool:
+    def add_at_tail(self, d -> bool:
         # Write code here
 
     def add_at_head(self, data) -> bool:
