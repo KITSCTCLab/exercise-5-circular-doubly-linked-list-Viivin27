@@ -42,7 +42,7 @@ for item in input_data.split(', '):
     if item.isnumeric():
         data.append(int(item))
     elif item.startswith('['):
-        item = item[1:-1]
+        item = item[1
         for letter in item.split(','):
             if letter.isnumeric():
                 
